@@ -1,0 +1,38 @@
+form{
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+    margin: 30px;
+}
+.contact{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+    margin: 20px auto;
+    input{
+        padding: 20px;
+        border: transparent;
+        border-radius: 5px;
+    }
+    button{
+        font-weight: bold;
+    }
+}
+
+.form-item{
+    margin: 10px;
+}
+
+button{
+    background-color: #e9d35b;
+    padding: 20px;
+    margin: 20px auto;
+    border-radius: 5px;
+    border: transparent;
+    width: 10%;
+    text-align: center;
+    display: block;
+}

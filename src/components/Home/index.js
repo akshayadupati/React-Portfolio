@@ -39,12 +39,6 @@ function Home() {
           <a href="https://github.com/akshayadupati">
             <GitHubIcon />
           </a>
-          <a
-            href="Akshaya_Dupati_UI_Developer_Resume.pdf"
-            download="Akshaya_Dupati_Resume"
-          >
-            <button className="resume-btn">Get Resume</button>
-          </a>
         </div>
       </div>
       <div className="skills">
